@@ -17,36 +17,36 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3ef049_001.yaml, hash: 'sha256:b67574b83047bfa27ed1faf8e010f2522606b4c2b3a3c1dc3a2f0b87d4e86af2'}
-  - {seq: 2, filename: KR3ef049_002.yaml, hash: 'sha256:3c0e1c2d178747875ca25e02f042e9914f2b87b7c072d57cd69ce9597d0c644c'}
-  - {seq: 3, filename: KR3ef049_003.yaml, hash: 'sha256:2ca04607225f6d375e2c9c959160ec10d7715cfa6fd0cf28bfb0530daa4c0625'}
-  - {seq: 4, filename: KR3ef049_004.yaml, hash: 'sha256:a88f9dcf08c9d52cbc5fe77ccc990f08b9af2957d6f512147263238176f58f27'}
-  - {seq: 5, filename: KR3ef049_005.yaml, hash: 'sha256:acf23bd5f364b5fbab38202a520208064c2606b8cb1ad8cbfeebe95c4702f179'}
-  - {seq: 6, filename: KR3ef049_006.yaml, hash: 'sha256:ae0ad728239836dc3107c1b68d862fb3901476c13c2ee7db3624f0eedd83fa3e'}
+  - {seq: 1, filename: KR3ef049_001.yaml, hash: 'sha256:928fdb635bb27ff5f09acf2f0de3bc897804b8c81d5d701a6f2b72acf85acb25'}
+  - {seq: 2, filename: KR3ef049_002.yaml, hash: 'sha256:4a9b24797be906bb7ae9d4cc7401c6b20db95755c3873ee20f673190263e369f'}
+  - {seq: 3, filename: KR3ef049_003.yaml, hash: 'sha256:ba37e039fc21ecf360a57344e852cb60219c5c7aacb2c3a5781a01727c446944'}
+  - {seq: 4, filename: KR3ef049_004.yaml, hash: 'sha256:67e992de43e5398eb3036e705b52342e9b63382c1614a235c3a1846dc48026c1'}
+  - {seq: 5, filename: KR3ef049_005.yaml, hash: 'sha256:a3193e1136c88d9bcd7004bb731e8c8c5b31e380dac0b5bf88c1d5a40ed02975'}
+  - {seq: 6, filename: KR3ef049_006.yaml, hash: 'sha256:603b83d8242531f16a3764dbeed38140f53b60af6892dc56e4ffa9531afb4a01'}
   - {seq: 0, filename: KR3ef049_000.yaml, hash: 'sha256:ace300b1dd2207931c2dddd730eb40c3e6b1151c15c699642460ee73517cecc6'}
-  - {seq: 1, filename: KR3ef049_001.yaml, hash: 'sha256:b67574b83047bfa27ed1faf8e010f2522606b4c2b3a3c1dc3a2f0b87d4e86af2'}
-  - {seq: 2, filename: KR3ef049_002.yaml, hash: 'sha256:3c0e1c2d178747875ca25e02f042e9914f2b87b7c072d57cd69ce9597d0c644c'}
-  - {seq: 3, filename: KR3ef049_003.yaml, hash: 'sha256:2ca04607225f6d375e2c9c959160ec10d7715cfa6fd0cf28bfb0530daa4c0625'}
-  - {seq: 4, filename: KR3ef049_004.yaml, hash: 'sha256:a88f9dcf08c9d52cbc5fe77ccc990f08b9af2957d6f512147263238176f58f27'}
-  - {seq: 5, filename: KR3ef049_005.yaml, hash: 'sha256:acf23bd5f364b5fbab38202a520208064c2606b8cb1ad8cbfeebe95c4702f179'}
-  - {seq: 6, filename: KR3ef049_006.yaml, hash: 'sha256:ae0ad728239836dc3107c1b68d862fb3901476c13c2ee7db3624f0eedd83fa3e'}
+  - {seq: 1, filename: KR3ef049_001.yaml, hash: 'sha256:928fdb635bb27ff5f09acf2f0de3bc897804b8c81d5d701a6f2b72acf85acb25'}
+  - {seq: 2, filename: KR3ef049_002.yaml, hash: 'sha256:4a9b24797be906bb7ae9d4cc7401c6b20db95755c3873ee20f673190263e369f'}
+  - {seq: 3, filename: KR3ef049_003.yaml, hash: 'sha256:ba37e039fc21ecf360a57344e852cb60219c5c7aacb2c3a5781a01727c446944'}
+  - {seq: 4, filename: KR3ef049_004.yaml, hash: 'sha256:67e992de43e5398eb3036e705b52342e9b63382c1614a235c3a1846dc48026c1'}
+  - {seq: 5, filename: KR3ef049_005.yaml, hash: 'sha256:a3193e1136c88d9bcd7004bb731e8c8c5b31e380dac0b5bf88c1d5a40ed02975'}
+  - {seq: 6, filename: KR3ef049_006.yaml, hash: 'sha256:603b83d8242531f16a3764dbeed38140f53b60af6892dc56e4ffa9531afb4a01'}
   - {seq: 0, filename: KR3ef049_000.yaml, hash: 'sha256:ace300b1dd2207931c2dddd730eb40c3e6b1151c15c699642460ee73517cecc6'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ef049_001.markers.yaml, hash: 'sha256:3750240dd7a16ddf76ce1a0e6d6d7652cd5786faebec8124e8d2a9d127c172c4'}
-  - {seq: 2, role: markers, filename: assets/KR3ef049_002.markers.yaml, hash: 'sha256:03211c9d914782e34ddc725047a149dc15baada8b6f61258ba61a85cb04f8135'}
-  - {seq: 3, role: markers, filename: assets/KR3ef049_003.markers.yaml, hash: 'sha256:1060e90205151aee3544fcd3f1d87ea6db95bfdacc7b204b0e4d6036ad607be4'}
-  - {seq: 4, role: markers, filename: assets/KR3ef049_004.markers.yaml, hash: 'sha256:ecec4035ba26f326f2cddcef41f2c4bda98db6d41a87c9fe6d7ec926642331f5'}
-  - {seq: 5, role: markers, filename: assets/KR3ef049_005.markers.yaml, hash: 'sha256:da5870d950098554d8168e2f7710852486aca074fcc264da5a16d78b94e6a279'}
-  - {seq: 6, role: markers, filename: assets/KR3ef049_006.markers.yaml, hash: 'sha256:a802e5054a41cd0a1e0598ed373ff20f57df26c26ab5231b4da1de7198b7eff0'}
   - {seq: 0, role: markers, filename: assets/KR3ef049_000.markers.yaml, hash: 'sha256:71e9ff9df61ad43349ce1b3e46c096002d20f89b4ab49d9c9b95144b2cf51a7e'}
+  - {seq: 1, role: markers, filename: assets/KR3ef049_001.markers.yaml, hash: 'sha256:5783e3218aae6ea4522d8f669c58c416864b648cbb38ceb617ff965e4fda931e'}
+  - {seq: 2, role: markers, filename: assets/KR3ef049_002.markers.yaml, hash: 'sha256:60682b563e6e0b563fc2c8c827c6db8fcc956f6141b7863ffdc55fb23960229b'}
+  - {seq: 3, role: markers, filename: assets/KR3ef049_003.markers.yaml, hash: 'sha256:f414738ce4152867204c2336d29385673762da8acb1e3eeffcd8cf883a0364db'}
+  - {seq: 4, role: markers, filename: assets/KR3ef049_004.markers.yaml, hash: 'sha256:29297120c8ecc614ef36e26a2c5db0d7fe73f62c099113631e0633ae89eac1e9'}
+  - {seq: 5, role: markers, filename: assets/KR3ef049_005.markers.yaml, hash: 'sha256:9367c444e6c2fb7b4e75fa61a4493107d5dc458e639f109b7b55bc8ef827a3d9'}
+  - {seq: 6, role: markers, filename: assets/KR3ef049_006.markers.yaml, hash: 'sha256:91b28d9b25d281f25a11d4926810eb31299f837214e7c6557657c433fb7dcac7'}
 table_of_contents:
 - ref:
     seq: 1
     marker_id: KR3ef049_jc_001-d2.h1s1
     span:
     - body
-    - 0
-    - 7878
+    - 578
+    - 8456
   label: 卷第一
   type: section
   level: 1
@@ -55,8 +55,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_001-d2d2
     span:
     - body
-    - 3
-    - 2236
+    - 581
+    - 2814
   label: 敘論
   type: section
   level: 2
@@ -65,8 +65,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_001-d2d3
     span:
     - body
-    - 2236
-    - 3174
+    - 2814
+    - 3752
   label: 太陽證
   type: section
   level: 2
@@ -75,8 +75,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_001-d2d4
     span:
     - body
-    - 3174
-    - 4021
+    - 3752
+    - 4599
   label: 陽明證
   type: section
   level: 2
@@ -85,8 +85,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_001-d2d5
     span:
     - body
-    - 4021
-    - 4494
+    - 4599
+    - 5072
   label: 少陽證
   type: section
   level: 2
@@ -95,8 +95,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_001-d2d6
     span:
     - body
-    - 4494
-    - 4853
+    - 5072
+    - 5431
   label: 太陰證
   type: section
   level: 2
@@ -105,8 +105,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_001-d2d7
     span:
     - body
-    - 4853
-    - 6078
+    - 5431
+    - 6656
   label: 少陰證
   type: section
   level: 2
@@ -115,8 +115,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_001-d2d8
     span:
     - body
-    - 6078
-    - 7337
+    - 6656
+    - 7915
   label: 厥陰證
   type: section
   level: 2
@@ -125,8 +125,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_001-d2d9
     span:
     - body
-    - 7337
-    - 7652
+    - 7915
+    - 8230
   label: 兩感證
   type: section
   level: 2
@@ -135,8 +135,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_001-d2d10
     span:
     - body
-    - 7652
-    - 7878
+    - 8230
+    - 8456
   label: 三陰三陽傳病證
   type: section
   level: 2
@@ -145,8 +145,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_002-d3.h1s1
     span:
     - body
-    - 0
-    - 8505
+    - 620
+    - 9125
   label: 卷第二
   type: section
   level: 1
@@ -155,8 +155,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_002-d3d2
     span:
     - body
-    - 3
-    - 2243
+    - 623
+    - 2863
   label: 可發汗證
   type: section
   level: 2
@@ -165,8 +165,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_002-d3d3
     span:
     - body
-    - 2243
-    - 3123
+    - 2863
+    - 3743
   label: 不可發汗證
   type: section
   level: 2
@@ -175,8 +175,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_002-d3d4
     span:
     - body
-    - 3123
-    - 3295
+    - 3743
+    - 3915
   label: 四逆證
   type: section
   level: 2
@@ -185,8 +185,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_002-d3d5
     span:
     - body
-    - 3295
-    - 4431
+    - 3915
+    - 5051
   label: 和表證
   type: section
   level: 2
@@ -195,8 +195,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_002-d3d6
     span:
     - body
-    - 4431
-    - 6628
+    - 5051
+    - 7248
   label: 可下證血證附
   type: section
   level: 2
@@ -205,8 +205,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_002-d3d7
     span:
     - body
-    - 6628
-    - 7015
+    - 7248
+    - 7635
   label: 不可下證
   type: section
   level: 2
@@ -215,8 +215,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_002-d3d8
     span:
     - body
-    - 7015
-    - 7456
+    - 7635
+    - 8076
   label: 可水不可水證
   type: section
   level: 2
@@ -225,8 +225,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_002-d3d9
     span:
     - body
-    - 7456
-    - 7616
+    - 8076
+    - 8236
   label: 可吐不可吐證
   type: section
   level: 2
@@ -235,8 +235,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_002-d3d10
     span:
     - body
-    - 7616
-    - 7886
+    - 8236
+    - 8506
   label: 可灸不可灸證
   type: section
   level: 2
@@ -245,8 +245,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_002-d3d11
     span:
     - body
-    - 7886
-    - 8003
+    - 8506
+    - 8623
   label: 可火不可火證
   type: section
   level: 2
@@ -255,8 +255,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_002-d3d12
     span:
     - body
-    - 8003
-    - 8103
+    - 8623
+    - 8723
   label: 可溫證
   type: section
   level: 2
@@ -265,8 +265,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_002-d3d13
     span:
     - body
-    - 8103
-    - 8505
+    - 8723
+    - 9125
   label: 火邪證
   type: section
   level: 2
@@ -275,8 +275,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_003-d4.h1s1
     span:
     - body
-    - 0
-    - 10543
+    - 1232
+    - 11775
   label: 卷第三
   type: section
   level: 1
@@ -285,8 +285,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_003-d4d2
     span:
     - body
-    - 3
-    - 812
+    - 1235
+    - 2044
   label: 結胸證
   type: section
   level: 2
@@ -295,8 +295,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_003-d4d3
     span:
     - body
-    - 812
-    - 1536
+    - 2044
+    - 2768
   label: 心下痞證
   type: section
   level: 2
@@ -305,8 +305,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_003-d4d4
     span:
     - body
-    - 1536
-    - 1695
+    - 2768
+    - 2927
   label: 陽毒證
   type: section
   level: 2
@@ -315,8 +315,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_003-d4d5
     span:
     - body
-    - 1695
-    - 2363
+    - 2927
+    - 3595
   label: 陰毒證
   type: section
   level: 2
@@ -325,8 +325,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_003-d4d6
     span:
     - body
-    - 2363
-    - 2576
+    - 3595
+    - 3808
   label: 狐惑證
   type: section
   level: 2
@@ -335,8 +335,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_003-d4d7
     span:
     - body
-    - 2576
-    - 3216
+    - 3808
+    - 4448
   label: 百合證
   type: section
   level: 2
@@ -345,8 +345,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_003-d4d8
     span:
     - body
-    - 3216
-    - 4626
+    - 4448
+    - 5858
   label: 痓濕暍證
   type: section
   level: 2
@@ -355,8 +355,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_003-d4.d8d4
     span:
     - body
-    - 3247
-    - 3678
+    - 4479
+    - 4910
   label: 痓證
   type: section
   level: 3
@@ -365,8 +365,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_003-d4.d8d5
     span:
     - body
-    - 3678
-    - 4427
+    - 4910
+    - 5659
   label: 濕證
   type: section
   level: 3
@@ -375,8 +375,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_003-d4.d8d6
     span:
     - body
-    - 4427
-    - 4626
+    - 5659
+    - 5858
   label: 暍證
   type: section
   level: 3
@@ -385,8 +385,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_003-d4d9
     span:
     - body
-    - 4626
-    - 9253
+    - 5858
+    - 10485
   label: 發汗吐下後雜病證
   type: section
   level: 2
@@ -395,8 +395,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_003-d4d10
     span:
     - body
-    - 9253
-    - 10073
+    - 10485
+    - 11305
   label: 傷寒勞復證
   type: section
   level: 2
@@ -405,8 +405,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_003-d4d11
     span:
     - body
-    - 10073
-    - 10543
+    - 11305
+    - 11775
   label: 陰陽易證
   type: section
   level: 2
@@ -415,8 +415,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_004-d5.h1s1
     span:
     - body
-    - 0
-    - 4966
+    - 540
+    - 5506
   label: 卷第四
   type: section
   level: 1
@@ -425,8 +425,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_004-d5d2
     span:
     - body
-    - 3
-    - 829
+    - 543
+    - 1369
   label: 暑病論
   type: section
   level: 2
@@ -435,8 +435,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_004-d5.d2d4
     span:
     - body
-    - 58
-    - 437
+    - 598
+    - 977
   label: 暑病表證
   type: section
   level: 3
@@ -445,8 +445,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_004-d5.d2d5
     span:
     - body
-    - 437
-    - 829
+    - 977
+    - 1369
   label: 素問載五種暑病
   type: section
   level: 3
@@ -455,8 +455,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_004-d5d3
     span:
     - body
-    - 829
-    - 2673
+    - 1369
+    - 3213
   label: 時行寒疫論
   type: section
   level: 2
@@ -465,8 +465,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_004-d5.d3d4
     span:
     - body
-    - 1309
-    - 2673
+    - 1849
+    - 3213
   label: 時行寒疫治法
   type: section
   level: 3
@@ -475,8 +475,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_004-d5d4
     span:
     - body
-    - 2673
-    - 4966
+    - 3213
+    - 5506
   label: 斑豆瘡論
   type: section
   level: 2
@@ -485,8 +485,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_004-d5.d4d4
     span:
     - body
-    - 3166
-    - 4966
+    - 3706
+    - 5506
   label: 溫病發斑治法小兒證附
   type: section
   level: 3
@@ -495,8 +495,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_005-d6.h1s1
     span:
     - body
-    - 0
-    - 6021
+    - 1009
+    - 7030
   label: 卷第五
   type: section
   level: 1
@@ -505,8 +505,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_005-d6d2
     span:
     - body
-    - 3
-    - 5297
+    - 1012
+    - 6306
   label: 天行溫病論
   type: section
   level: 2
@@ -515,8 +515,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_005-d6.d2d4
     span:
     - body
-    - 535
-    - 1582
+    - 1544
+    - 2591
   label: 闢溫疫論
   type: section
   level: 3
@@ -525,8 +525,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_005-d6.d2d5
     span:
     - body
-    - 1582
-    - 1904
+    - 2591
+    - 2913
   label: 青筋牽證
   type: section
   level: 3
@@ -535,8 +535,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_005-d6.d2d6
     span:
     - body
-    - 1904
-    - 2045
+    - 2913
+    - 3054
   label: 赤脈㩌證
   type: section
   level: 3
@@ -545,8 +545,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_005-d6.d2d7
     span:
     - body
-    - 2045
-    - 2250
+    - 3054
+    - 3259
   label: 黃肉隨證
   type: section
   level: 3
@@ -555,8 +555,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_005-d6.d2d8
     span:
     - body
-    - 2250
-    - 2489
+    - 3259
+    - 3498
   label: 白氣貍證
   type: section
   level: 3
@@ -565,8 +565,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_005-d6.d2d9
     span:
     - body
-    - 2489
-    - 2856
+    - 3498
+    - 3865
   label: 黑骨溫證
   type: section
   level: 3
@@ -575,8 +575,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_005-d6.d2d10
     span:
     - body
-    - 2856
-    - 3239
+    - 3865
+    - 4248
   label: 溫病噦方論
   type: section
   level: 3
@@ -585,8 +585,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_005-d6.d2d11
     span:
     - body
-    - 3239
-    - 3713
+    - 4248
+    - 4722
   label: 黃病證
   type: section
   level: 3
@@ -595,8 +595,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_005-d6.d2d12
     span:
     - body
-    - 3713
-    - 4755
+    - 4722
+    - 5764
   label: 傷寒感異氣成溫病壞候並瘧證
   type: section
   level: 3
@@ -605,8 +605,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_005-d6.d2d13
     span:
     - body
-    - 4755
-    - 5297
+    - 5764
+    - 6306
   label: 敗壞別行方
   type: section
   level: 3
@@ -615,8 +615,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_005-d6d3
     span:
     - body
-    - 5297
-    - 6021
+    - 6306
+    - 7030
   label: 小兒傷寒證
   type: section
   level: 2
@@ -625,8 +625,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_006-d7.h1s1
     span:
     - body
-    - 0
-    - 5360
+    - 635
+    - 5995
   label: 卷第六
   type: section
   level: 1
@@ -635,8 +635,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_006-d7d2
     span:
     - body
-    - 3
-    - 312
+    - 638
+    - 947
   label: 傷寒雜方
   type: section
   level: 2
@@ -645,8 +645,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_006-d7d3
     span:
     - body
-    - 312
-    - 946
+    - 947
+    - 1581
   label: 妊娠雜方
   type: section
   level: 2
@@ -655,8 +655,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_006-d7d4
     span:
     - body
-    - 946
-    - 1948
+    - 1581
+    - 2583
   label: 傷寒暑病通用刺法
   type: section
   level: 2
@@ -665,8 +665,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_006-d7d5
     span:
     - body
-    - 1948
-    - 2212
+    - 2583
+    - 2847
   label: 傷寒死生候
   type: section
   level: 2
@@ -675,8 +675,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_006-d7d6
     span:
     - body
-    - 2212
-    - 2700
+    - 2847
+    - 3335
   label: 熱病死生候
   type: section
   level: 2
@@ -685,8 +685,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_006-d7d7
     span:
     - body
-    - 2700
-    - 2865
+    - 3335
+    - 3500
   label: 溫病死生候
   type: section
   level: 2
@@ -695,8 +695,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_006-d7d8
     span:
     - body
-    - 2865
-    - 2925
+    - 3500
+    - 3560
   label: 天行瘥後禁忌
   type: section
   level: 2
@@ -705,8 +705,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_006-d7d9
     span:
     - body
-    - 2925
-    - 3521
+    - 3560
+    - 4156
   label: 解仲景脈說
   type: section
   level: 2
@@ -715,8 +715,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_006-d7d10
     span:
     - body
-    - 3521
-    - 3765
+    - 4156
+    - 4400
   label: 解華佗內外實說
   type: section
   level: 2
@@ -725,8 +725,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_006-d7d11
     span:
     - body
-    - 3765
-    - 4249
+    - 4400
+    - 4884
   label: 辨論
   type: section
   level: 2
@@ -735,8 +735,8 @@ table_of_contents:
     marker_id: KR3ef049_jc_006-d7d12
     span:
     - body
-    - 4249
-    - 5360
+    - 4884
+    - 5995
   label: 上蘇子瞻端明辨傷寒論書
   type: section
   level: 2
@@ -804,7 +804,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3ef049_jc_000-d12.h1s1
     span:
-    - front
+    - body
     - 0
     - 578
   label: 後序
@@ -814,7 +814,7 @@ table_of_contents:
     seq: 2
     marker_id: KR3ef049_jc_000-d12.h1s1
     span:
-    - front
+    - body
     - 0
     - 620
   label: 後序
@@ -824,7 +824,7 @@ table_of_contents:
     seq: 3
     marker_id: KR3ef049_jc_000-d12.h1s1
     span:
-    - front
+    - body
     - 0
     - 1232
   label: 後序
@@ -834,7 +834,7 @@ table_of_contents:
     seq: 4
     marker_id: KR3ef049_jc_000-d12.h1s1
     span:
-    - front
+    - body
     - 0
     - 540
   label: 後序
@@ -844,7 +844,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ef049_jc_000-d12.h1s1
     span:
-    - front
+    - body
     - 0
     - 1009
   label: 後序
@@ -854,7 +854,7 @@ table_of_contents:
     seq: 6
     marker_id: KR3ef049_jc_000-d12.h1s1
     span:
-    - front
+    - body
     - 0
     - 635
   label: 後序
@@ -910,7 +910,7 @@ table_of_contents:
   label: 跋龐安常傷寒論
   type: section
   level: 2
-hash: sha256:ce31038940863219ad53635ca3ae0c54ae9bf11210a0ec359e74329cde6565de
+hash: sha256:e10121428d9ad4a11f1e089e743fa0cad55eeebff3cd6365c5858f1a87265f11
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
